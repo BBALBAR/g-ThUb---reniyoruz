@@ -1,1 +1,3 @@
 arkadaşlar hoşbulduk
+bu eğitimde c# dili ile yazılım geliştirilmiştir
+que mal tiempo estamos viviendo
